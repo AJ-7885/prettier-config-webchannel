@@ -2,8 +2,15 @@
   "name": "prettier-config-webchannel",
   "version": "0.1.0",
   "description": "Prettier Sharing configurations",
+  "keywords": [
+    "prettier",
+    "sharing",
+    "config",
+    "webchannel"
+  ],
   "main": "index.json",
   "repository": "git@github.com:AJ-7885/prettier-config-webchannel.git",
   "author": "https://github.com/AJ-7885",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
