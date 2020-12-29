@@ -1,8 +1,5 @@
 # prettier-config-webchannel
 
-
-# `prettier-config-webchannel`
-
 > Sharing a Prettier configuration [Prettier](https://prettier.io) config.
 
 ## Usage
