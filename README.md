@@ -7,10 +7,10 @@
 **Install**:
 
 ```bash
-$ yarn add --dev prettier-config-webchannel
+yarn add --dev prettier-config-webchannel
 ```
 
-**Edit `package.json`**:
+**Edit package.json**:
 
 ```jsonc
 {
