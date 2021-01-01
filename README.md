@@ -74,7 +74,7 @@ module.exports = {
 ### <a href="https://github.com/airbnb/javascript/blob/master/README.md#whitespace--in-brackets">19.11</a> Bracket Spacing
 > Do not print spaces between brackets in object literals.
 
-`"bracketSpacing": false`
+`"bracketSpacing": true`
 
 ### <a href="https://github.com/airbnb/javascript/blob/master/README.md#commas--dangling">20.2</a> Trailing Commas
 > Print trailing commas wherever possible when multi-line. (A single-line array, for example, never gets trailing commas.)
