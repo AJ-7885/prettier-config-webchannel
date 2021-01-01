@@ -69,7 +69,7 @@ module.exports = {
 
 `"printWidth": 100`
 
-`"proseWrap": "always"`
+`"proseWrap": "preserve"`
 
 ### <a href="https://github.com/airbnb/javascript/blob/master/README.md#whitespace--in-brackets">19.11</a> Bracket Spacing
 > Do not print spaces between brackets in object literals.
