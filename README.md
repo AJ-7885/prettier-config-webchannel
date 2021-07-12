@@ -2,6 +2,8 @@
 
 > Sharing a Prettier configuration [Prettier](https://prettier.io) config.
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/AJ-7885/prettier-config-webchannel)
+
 
 <img src="https://www.wisdomgeek.com/wp-content/uploads/2018/02/prettier.png"
 alt="Showreel" width="100%" border="10" />
